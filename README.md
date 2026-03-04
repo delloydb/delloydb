@@ -79,9 +79,8 @@ I want to join a team where I can contribute, learn from experienced mentors, an
 
 ## 📬 Let's Connect
 
-- 💼 **LinkedIn**: [linkedin.com/in/lloydbrown](https://linkedin.com/in/yourprofile)
-- 📧 **Email**: lloyd.brown@student.example.edu
-- 🐦 **X**: [@lloyd_sec](https://twitter.com/yourhandle)
+- 💼 **LinkedIn**: [linkedin.com/in/lloydbrown](https://www.linkedin.com/in/lloyd-brown-00a95131b/)
+- 📧 **Email**: lloydbrownjnr@gmail.com
 - 💻 **GitHub**: you're already here!
 
 ---
