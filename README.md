@@ -3,7 +3,7 @@
 <h3 align="center">I am a Computer Science Student • Cybersecurity Analylist • AI Enthusiast • Web Dev</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/lloyd-brown-00a95131b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/delloydb">
