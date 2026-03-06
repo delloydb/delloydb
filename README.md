@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">👨🏾‍💻 Lloyd Brown</h1>
-<h3 align="center">I am a Computer Science Student • Cybersecurity Analylist • AI Enthusiast • Web Dev • UI/UX Designer</h3>
+<h3 align="center">I am a Computer Science Student • Cybersecurity Analyst • AI Enthusiast • Web Dev • UI/UX Designer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/lloyd-brown-00a95131b/">
@@ -16,13 +16,14 @@
 
 ---
 
-## 🧠 Who Am I?
+##  Who Am I?
 
 I'm a computer science student with a deep curiosity for how things work—and how they break. My focus is split between three worlds:
 
-- 🔒 **Cybersecurity** – Understanding vulnerabilities, ethical hacking, and building systems that resist attacks.
-- 🤖 **Artificial Intelligence** – Exploring machine learning, especially in security applications (threat detection, anomaly analysis).
-- 🌐 **Web Development** – Creating full‑stack apps with security baked in from day one.
+-  **Cybersecurity** – Understanding vulnerabilities, ethical hacking, and building systems that resist attacks.
+-  **Artificial Intelligence** – Exploring machine learning, especially in security applications (threat detection, anomaly analysis).
+-  **Web Development** – Creating full‑stack apps with security baked in from day one.
+-  **UI/UX Design** - Creating cool modern styled webpages(tools - figma, canva)
 
 I'm on a mission to become a **security‑minded engineer** who can build smart, resilient systems. I treat every line of code as an opportunity to learn and every challenge as a puzzle to solve.
 
@@ -33,7 +34,7 @@ I'm on a mission to become a **security‑minded engineer** who can build smart,
 | **Category**       | **Technologies**                                                                                     |
 |---------------------|------------------------------------------------------------------------------------------------------|
 | **Cybersecurity**   | Kali Linux, Wireshark, Nmap, Metasploit, OWASP Top 10, basic cryptography                            |
-| **AI / ML**         | Python, TensorFlow, Scikit‑learn, Pandas, Jupyter                                                    |
+| **AI / ML**         | Python, Pycharm, Pandas                                                                              |
 | **Web Dev**         | HTML, CSS, JavaScript, React, Node.js, Express, MongoDB                                              |
 | **Languages**       | Python, JavaScript, Java, C++, SQL                                                                   |
 | **DevOps / Tools**  | Git, GitHub, Linux (Ubuntu), VS Code, Docker (learning)                                              |
