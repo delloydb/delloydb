@@ -36,7 +36,7 @@ I'm on a mission to become a **security‑minded engineer** who can build smart,
 | **Cybersecurity**   | Kali Linux, Wireshark, Nmap, Metasploit, OWASP Top 10, basic cryptography                            |
 | **AI / ML**         | Python, Pycharm, Pandas                                                                              |
 | **Web Dev**         | HTML, CSS, JavaScript, React, Node.js, Express, MongoDB                                              |
-| **Languages**       | Python, JavaScript, Java, C++, SQL                                                                   |
+| **Languages**       | Python, JavaScript, Java, C++, SQL, c, dart, flutter                                                 |
 | **DevOps / Tools**  | Git, GitHub, Linux (Ubuntu), VS Code, Docker (learning)                                              |
 
 ---
