@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">👨🏾‍💻 Lloyd Brown</h1>
-<h3 align="center">I am a Computer Science Student • Cybersecurity Analyst • Web Dev • UI/UX Designer</h3>
+<h3 align="center">I am a Computer Science Student • Cybersecurity Analyst • Web Dev • UI/UX Designer • AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/lloyd-brown-00a95131b/">
