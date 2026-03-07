@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">👨🏾‍💻 Lloyd Brown</h1>
-<h3 align="center">I am a Computer Science Student • Cybersecurity Analyst • AI Enthusiast • Web Dev • UI/UX Designer</h3>
+<h3 align="center">I am a Computer Science Student • Cybersecurity Analyst • Web Dev • UI/UX Designer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/lloyd-brown-00a95131b/">
@@ -41,10 +41,6 @@ I'm on a mission to become a **security‑minded engineer** who can build smart,
 
 ## 📌 Featured Projects
 
-### 🔐 AI Threat Detection Lab  
-> *Python • Scikit‑learn • Security*  
-Building a proof‑of‑concept intrusion detection system that uses machine learning to flag suspicious network activity. Currently training on the UNSW‑NB15 dataset.
-
 ### 🌐 Secure Full‑Stack Boilerplate  
 > *React • Node.js • MongoDB • Security Headers*  
 A starter kit for web apps that includes JWT authentication, input validation, CSRF protection, and a secure deployment checklist – because security should never be an afterthought.
@@ -57,8 +53,8 @@ A personal repository of capture‑the‑flag solutions, vulnerability explanati
 
 ## 📚 Currently Learning & Certifications
 
-- 🎓 Google Cybersecurity Professional Certificate (in progress)
 - 🎓 Cisco Introduction to Cybersecurity
+- MERN STACK: Web development 
 - 📖 Reading: *The Web Application Hacker's Handbook*, *Hands‑On Machine Learning*
 - 🎥 Watching: Stanford CS253 (Web Security), MIT 6.S191 (Intro to Deep Learning)
 
@@ -69,8 +65,8 @@ A personal repository of capture‑the‑flag solutions, vulnerability explanati
 I'm actively seeking **internship opportunities** in:
 
 - **Cybersecurity** (Security Analyst, Penetration Testing Intern)
-- **AI/ML Engineering** (especially applied to security)
-- **Full‑Stack Development** (with a focus on secure coding)
+- **Full‑Stack Development** (with a focus on secure coding, and system building)
+- **UIUX Design** (graphics design and web designs)
 
 I want to join a team where I can contribute, learn from experienced mentors, and work on meaningful projects that make a difference.
 
@@ -81,13 +77,6 @@ I want to join a team where I can contribute, learn from experienced mentors, an
 - 💼 **LinkedIn**: [linkedin.com/in/lloydbrown](https://www.linkedin.com/in/lloyd-brown-00a95131b/)
 - 📧 **Email**: lloydbrownjnr@gmail.com
 - 💻 **GitHub**: you're already here!
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delloydb&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delloydb&layout=compact&theme=radical" width="48%" />
-</p>
 
 ---
 
