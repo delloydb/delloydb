@@ -21,7 +21,6 @@
 I'm a computer science student with a deep curiosity for how things work—and how they break. My focus is split between three worlds:
 
 -  **Cybersecurity** – Understanding vulnerabilities, ethical hacking, and building systems that resist attacks.
--  **Artificial Intelligence** – Exploring machine learning, especially in security applications (threat detection, anomaly analysis).
 -  **Web Development** – Creating full‑stack apps with security baked in from day one.
 -  **UI/UX Design** - Creating cool modern styled webpages(tools - figma, canva)
 
@@ -34,10 +33,9 @@ I'm on a mission to become a **security‑minded engineer** who can build smart,
 | **Category**       | **Technologies**                                                                                     |
 |---------------------|------------------------------------------------------------------------------------------------------|
 | **Cybersecurity**   | Kali Linux, Wireshark, Nmap, Metasploit, OWASP Top 10, basic cryptography                            |
-| **AI / ML**         | Python, Pycharm, Pandas                                                                              |
 | **Web Dev**         | HTML, CSS, JavaScript, React, Node.js, Express, MongoDB                                              |
-| **Languages**       | Python, JavaScript, Java, C++, SQL, c, dart, flutter                                                 |
-| **DevOps / Tools**  | Git, GitHub, Linux (Ubuntu), VS Code, Docker (learning)                                              |
+| **Languages**       | Python, JavaScript, Java, C++, SQL, C, Dart, Flutter                                                 |
+| **Tools**           | Git, GitHub, Linux (Ubuntu), VS Code, VS Code, Figma, canva, capcut                                  |
 
 ---
 
