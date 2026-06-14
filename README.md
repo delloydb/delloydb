@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">👨🏾‍💻 Lloyd Brown</h1>
-<h3 align="center">I am a Computer Science Student • Cybersecurity Analyst • Web Dev • UI/UX Designer • AI Enthusiast</h3>
+<h3 align="center">I am a Computer Science Student • Cybersecurity • Web Dev • Graphics & UI/UX Designer • AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/lloyd-brown-00a95131b/">
@@ -9,7 +9,7 @@
   <a href="https://github.com/delloydb">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:lloyd.brown@student.example.edu">
+  <a href="mailto:lloydbrownjnr@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -32,10 +32,10 @@ I'm on a mission to become a **security‑minded engineer** who can build smart,
 
 | **Category**       | **Technologies**                                                                                     |
 |---------------------|------------------------------------------------------------------------------------------------------|
-| **Cybersecurity**   | Kali Linux                                                                                           |
+| **Cybersecurity**   | Kali Linux, Linux (Ubuntu)                                                                           |
 | **Web Dev**         | HTML, CSS, JavaScript, React, Node.js, Express, MongoDB                                              |
 | **Languages**       | Python, JavaScript, Java, C++, SQL, C, Dart, Flutter                                                 |
-| **Tools**           | Git, GitHub, Linux (Ubuntu), VS Code, VS Code, Figma, canva, capcut                                  |
+| **Tools**           | Git, GitHub, VS Code, VS Code, Figma, canva, capcut                                  |
 
 ---
 
