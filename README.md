@@ -4,7 +4,6 @@
 </p>
 
 <h1 align="center">👨🏾‍💻 Lloyd Brown</h1>
-<h3 align="center">Computer Science Student • Cybersecurity • Web Dev • Graphics Design • AI Enthusiast</h3>
 
 <!-- Social badges -->
 <p align="center">
