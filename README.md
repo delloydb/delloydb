@@ -142,6 +142,6 @@ I want to join a team where I can contribute, learn from experienced mentors, an
 ---
 
 <p align="center">
-  <i>“Security is not a product, but a process. AI is not magic, but a tool. God is the ultimate designer. Together, they're the future I'm building.”</i>  
+  <i>“Security is not a product, but a process. AI is not magic, but a tool. Together, they're the future I'm building. But God is the ultimate designer. ”</i>  
   <br>— Lloyd Brown
 </p>
