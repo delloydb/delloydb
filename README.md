@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Lloyd+Brown;Computer+Science+Student;Cybersecurity+Enthusiast;Web+Developer;Graphics+Designer;AI+Explorer" alt="Typing SVG" />
 </p>
 
-<h1 align="center">👨🏾‍💻 Lloyd Brown</h1>
+<h1 align="center"> Lloyd Brown</h1>
 
 <!-- Social badges -->
 <p align="center">
@@ -20,27 +20,27 @@
 
 ---
 
-## 🧑‍💻 Who Am I?
+##  Who Am I?
 
 I'm a computer science student with a deep curiosity for how things work—and how they break, get fixed, or just get outdated. My focus is split between three worlds:
 
-- 🔐 **Cybersecurity** – Understanding vulnerabilities, ethical hacking, and building systems that resist attacks.
-- 🌐 **Web Development** – Creating full‑stack apps with security baked in from day one.
-- 🎨 **Graphics Design** – Crafting modern, clean designs for web and print.
+-  **Cybersecurity** – Understanding vulnerabilities, ethical hacking, and building systems that resist attacks.
+-  **Web Development** – Creating full‑stack apps with security baked in from day one.
+-  **Graphics Design** – Crafting modern, clean designs for web and print.
 
 I'm on a mission to become a **security‑minded engineer** who builds smart, appealing, and resilient systems. I treat every line of code as a learning opportunity and every challenge as a puzzle to solve.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
-### 🔒 Cybersecurity
+###  Cybersecurity
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
-### 🌐 Web Development
+###  Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -50,7 +50,7 @@ I'm on a mission to become a **security‑minded engineer** who builds smart, ap
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 💻 Programming Languages
+###  Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -59,7 +59,7 @@ I'm on a mission to become a **security‑minded engineer** who builds smart, ap
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🎨 Design & Tools
+###  Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
