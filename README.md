@@ -108,7 +108,7 @@ I want to join a team where I can contribute, learn from experienced mentors, an
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=delloydb&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -120,7 +120,7 @@ I want to join a team where I can contribute, learn from experienced mentors, an
 
 ---
 
-## 📊 Most Used Languages
+## Most Used Languages
 
 <!-- Dynamic card (auto-updates based on your repos) -->
 <p align="center">
