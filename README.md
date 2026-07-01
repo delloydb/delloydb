@@ -68,33 +68,33 @@ I'm on a mission to become a **security‑minded engineer** who builds smart, ap
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🌐 Property Sales Site  
+###  Property Sales Site  
 > **Tech:** HTML • CSS • JavaScript • Security Headers  
 A real estate platform for listing and browsing properties with a modern, user‑friendly interface.
 
-### 📝 CTF Write‑ups & Security Notes  
+###  CTF Write‑ups & Security Notes  
 > **Tech:** Cybersecurity • Documentation  
 A personal repository of capture‑the‑flag solutions, vulnerability explanations, and study notes—sharing knowledge to help others (and future me).
 
 ---
 
-## 📚 Currently Learning & Certifications
+##  Currently Learning & Certifications
 
-- 🎓 Cisco Junior Cybersecurity Career Path  
-- 🌐 MERN Stack (MongoDB, Express, React, Node.js)  
-- 📖 Reading: *The Web Application Hacker's Handbook* & *Hands‑On Machine Learning*
+-  Cisco Junior Cybersecurity Career Path  
+-  MERN Stack (MongoDB, Express, React, Node.js)  
+-  Reading: *The Web Application Hacker's Handbook* & *Hands‑On Machine Learning*
 
 ---
 
-## 🎯 What I'm Looking For
+##  What I'm Looking For
 
 I'm actively seeking **internship opportunities** in:
 
-- 🔐 **Cybersecurity** (Security Analyst, Penetration Testing Intern)  
-- 🌐 **Full‑Stack Development** (with a focus on secure coding)  
-- 🎨 **Graphics Design** (UI/UX, web design)
+-  **Cybersecurity** (Security Analyst, Penetration Testing Intern)  
+-  **Full‑Stack Development** (with a focus on secure coding)  
+-  **Graphics Design** (UI/UX, web design)
 
 I want to join a team where I can contribute, learn from experienced mentors, and work on meaningful projects.
 
@@ -102,9 +102,9 @@ I want to join a team where I can contribute, learn from experienced mentors, an
 
 ## 📬 Let's Connect
 
-- 💼 **LinkedIn**: [linkedin.com/in/lloyd-brown-00a95131b/](https://www.linkedin.com/in/lloyd-brown-00a95131b/)  
-- 📧 **Email**: [lloydbrownjnr@gmail.com](mailto:lloydbrownjnr@gmail.com)  
-- 💻 **GitHub**: [github.com/delloydb](https://github.com/delloydb) – you're already here!
+-  **LinkedIn**: [linkedin.com/in/lloyd-brown-00a95131b/](https://www.linkedin.com/in/lloyd-brown-00a95131b/)  
+-  **Email**: [lloydbrownjnr@gmail.com](mailto:lloydbrownjnr@gmail.com)  
+-  **GitHub**: [github.com/delloydb](https://github.com/delloydb) – you're already here!
 
 ---
 
@@ -142,6 +142,6 @@ I want to join a team where I can contribute, learn from experienced mentors, an
 ---
 
 <p align="center">
-  <i>“Security is not a product, but a process. AI is not magic, but a tool. Together, they're the future I'm building. But God is the ultimate designer. ”</i>  
+  <i>“Security is not a product, but a process. AI is not magic, but a tool. Together, they're the future I'm building. But God is the ultimate designer and creator. ”</i>  
   <br>— Lloyd Brown
 </p>
