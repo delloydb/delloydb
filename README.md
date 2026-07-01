@@ -100,7 +100,7 @@ I want to join a team where I can contribute, learn from experienced mentors, an
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 -  **LinkedIn**: [linkedin.com/in/lloyd-brown-00a95131b/](https://www.linkedin.com/in/lloyd-brown-00a95131b/)  
 -  **Email**: [lloydbrownjnr@gmail.com](mailto:lloydbrownjnr@gmail.com)  
