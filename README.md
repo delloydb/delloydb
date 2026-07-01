@@ -108,18 +108,6 @@ I want to join a team where I can contribute, learn from experienced mentors, an
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delloydb&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=delloydb&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## Most Used Languages
 
 <!-- Dynamic card (auto-updates based on your repos) -->
